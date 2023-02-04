@@ -4,7 +4,7 @@ title: Effective Coding - Part 1
 subtitle: Being a more effective programmer
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [coding, blod]
+tags: [coding, blog]
 comments: true
 ---
 
