@@ -79,7 +79,7 @@ Aim to write code that is so clean that it serves as its own documentation. Here
 		return displacement;
 	}`
 	
-These two code snippets are doing the same calculation, but the latter is much clearer with descriptive variable names and a descriptive name for the function. The code itself tells you what its doing. Now that doesn't mean we throw out comments entirely. Its generally a good idea to write docstring comments for all your classes, methods, etc. But favor code that is clear and understandable. A readable solution that's 5 lines of code is generally preferred to a hacky 1 line solution. 
+These two code snippets are doing the same calculation (displacement), but the latter is much clearer with descriptive variable names and a meaningful name for the function. The code itself tells you what its doing. Now that doesn't mean we throw out comments entirely. Its generally a good idea to write docstring comments for all your classes, methods, etc. But favor code that is clear and understandable. A readable solution that's 5 lines of code is generally preferred to a hacky 1 line solution. 
 
 	
 I hope you enjoyed this post and found it useful. Feel free to reach out to me via email if you have questions, comments, or suggestions for future posts.
