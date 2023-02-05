@@ -15,7 +15,7 @@ In this post, I will focus on how an individual can be more effective when writi
 focused on network automation (as I am), or building a web application, these principles will broadly apply to most programming paradigms.
 I will not focus on the dynamics of working on a shared codebase with a team, but I do plan to cover that topic in a future post. I
 
-**Pick the right tools for the job**
+## Pick the right tools for the job
 
 
 Its a cliche for a reason. Before starting on a new project, you should always take some time to consider what is the most
@@ -30,10 +30,10 @@ DON'T REINVENT THE WHEEL. For example, if you need to retrieve data from a syste
 an API client library for that system. A well-written API client library will provide useful abstrations that can significantly reduce
 the amount of code that you will need to write.
 
-**Plan your sessions**
+## Plan your sessions
 
 
-## "Weeks of coding can save hours of planning." -Unknown
+**"Weeks of coding can save hours of planning." -Unknown**
 
 
 When working on a new body of code, or refactoring an existing one,  a little bit of planning can go a long way. Of course for a large project, 
@@ -50,7 +50,7 @@ concrete implementation. I've noticed that as I've practiced and improved at thi
 I've even began the implementation process.
 
 
-**Read documentation**
+## Read documentation
 
 
 I had a college professor who said that the difference between a good programmer and a great one is that a great programmer reads
@@ -61,7 +61,7 @@ more effective Python programmer. Technical documentation can be quite dull to r
 IDE open alongside the documentation, so that I could experiment with some of the structures, and put what I'm reading directly into practice.
 
 
-**Strive for readability**
+## Strive for readability
 
 
 Readability is critical to writing good, clean code. When your code is readable, its easy to understand. This means its also easy to extend or modify. I've had
